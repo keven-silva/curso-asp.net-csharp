@@ -296,3 +296,4 @@ C:\Users\keven.silva\Documents\Cursos\curso-csharp\SalesWebMvc\SalesWebMvc\obj\D
 C:\Users\keven.silva\Documents\Cursos\curso-csharp\SalesWebMvc\SalesWebMvc\obj\Debug\net5.0\SalesWebMvc.pdb
 C:\Users\keven.silva\Documents\Cursos\curso-csharp\SalesWebMvc\SalesWebMvc\obj\Debug\net5.0\SalesWebMvc.genruntimeconfig.cache
 C:\Users\keven.silva\Documents\Cursos\curso-csharp\SalesWebMvc\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\keven.silva\Documents\Cursos\curso-csharp\SalesWebMvc\SalesWebMvc\obj\Debug\net5.0\SalesWebMvc.csproj.AssemblyReference.cache
