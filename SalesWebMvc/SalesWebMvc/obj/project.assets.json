@@ -7148,19 +7148,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\keven.silva\\.nuget\\packages\\": {}
+    "C:\\Users\\keven\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keven.silva\\Documents\\Cursos\\curso-csharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectUniqueName": "C:\\Users\\keven\\Cursos\\curso-asp.net-csharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "C:\\Users\\keven.silva\\Documents\\Cursos\\curso-csharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
-      "packagesPath": "C:\\Users\\keven.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keven.silva\\Documents\\Cursos\\curso-csharp\\SalesWebMvc\\SalesWebMvc\\obj\\",
+      "projectPath": "C:\\Users\\keven\\Cursos\\curso-asp.net-csharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "packagesPath": "C:\\Users\\keven\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\keven\\Cursos\\curso-asp.net-csharp\\SalesWebMvc\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\keven.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\keven\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7211,6 +7216,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -7219,7 +7242,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
