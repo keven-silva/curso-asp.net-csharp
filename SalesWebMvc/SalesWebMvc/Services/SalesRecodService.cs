@@ -54,8 +54,6 @@ namespace SalesWebMvc.Services
                 .ToListAsync();
             return resultSales
                 .GroupBy(x => x.Seller.Department).ToList();
-
-            ;
         }
     }
 }
